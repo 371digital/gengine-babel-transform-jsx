@@ -1,0 +1,9 @@
+{
+    "name": "@371digital/gengine-babel-transform-jsx",
+    "version": "1.0.0",
+    "description": "Gengine Babel Transform Jsx",
+    "dependencies": {
+        "babel-core": "5.0.0"
+    },
+    "author": "371Digital"
+}
